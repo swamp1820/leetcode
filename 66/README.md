@@ -28,4 +28,4 @@ Example 3:
     Incrementing by one gives 9 + 1 = 10.
     Thus, the result should be [1,0].
     
-    ![изображение](https://user-images.githubusercontent.com/51196431/221362505-9774a199-4a00-48a8-b81f-b6b095440f27.png)
+   ![изображение](https://user-images.githubusercontent.com/51196431/221362505-9774a199-4a00-48a8-b81f-b6b095440f27.png)
