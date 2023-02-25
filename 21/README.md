@@ -18,3 +18,5 @@ Example 3:
 
     Input: list1 = [], list2 = [0]
     Output: [0]
+
+![изображение](https://user-images.githubusercontent.com/51196431/221262965-158da051-19a6-4e64-8a5f-8a9c511a22e2.png)
