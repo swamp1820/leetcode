@@ -1,6 +1,6 @@
 namespace test;
 
-public class UnitTest1
+public class UnitTests
 {
         [Theory]
         [InlineData(new []{"dog","racecar","car"},"")]
