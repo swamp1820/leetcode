@@ -6,3 +6,4 @@
 - 69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - 88 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- 1480 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
