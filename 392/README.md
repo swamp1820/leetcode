@@ -13,3 +13,5 @@ Example 2:
 
     Input: s = "axc", t = "ahbgdc"
     Output: false
+
+![изображение](https://user-images.githubusercontent.com/51196431/221620618-6c311115-61bd-4ad2-9463-1f61cd91e3b5.png)
