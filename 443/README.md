@@ -30,3 +30,5 @@ Example 3:
     Input: chars = ["a","b","b","b","b","b","b","b","b","b","b","b","b"]
     Output: Return 4, and the first 4 characters of the input array should be: ["a","b","1","2"].
     Explanation: The groups are "a" and "bbbbbbbbbbbb". This compresses to "ab12".
+    
+    ![изображение](https://user-images.githubusercontent.com/51196431/222534357-cf5dfb39-2033-4a70-8956-6f4e3934a138.png)
