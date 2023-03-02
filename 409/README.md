@@ -15,3 +15,5 @@ Example 2:
     Input: s = "a"
     Output: 1
     Explanation: The longest palindrome that can be built is "a", whose length is 1.
+
+![изображение](https://user-images.githubusercontent.com/51196431/222494437-6adcae52-1725-4cc6-ab7e-58005c525bd2.png)
