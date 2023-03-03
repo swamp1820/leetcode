@@ -1,4 +1,4 @@
-namespace Common.ListNode;
+namespace Common;
 public class ListNode
 {
     public int val;

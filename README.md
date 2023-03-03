@@ -11,6 +11,7 @@
 - 392 [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - 409 [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - 443 [String Compression](https://leetcode.com/problems/string-compression/)
+- 589 [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 - 724 [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - 876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 912 [Sort an Array](https://leetcode.com/problems/sort-an-array/)

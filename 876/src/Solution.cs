@@ -1,4 +1,4 @@
-﻿using Common.ListNode;
+﻿using Common;
 namespace src;
 
 public class Solution
