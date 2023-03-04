@@ -15,3 +15,5 @@ Example 2:
     Input: nums = [-1,0,3,5,9,12], target = 2
     Output: -1
     Explanation: 2 does not exist in nums so return -1
+    
+![изображение](https://user-images.githubusercontent.com/51196431/222897214-90a51ad3-c752-4c3f-8e54-d7285b843a6d.png)
