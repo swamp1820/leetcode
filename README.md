@@ -9,6 +9,7 @@
 - 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - 205 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - 206 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- 278 [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - 392 [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - 409 [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - 443 [String Compression](https://leetcode.com/problems/string-compression/)
