@@ -23,3 +23,5 @@ Example 3:
     Input: head = [1], pos = -1
     Output: no cycle
     Explanation: There is no cycle in the linked list.
+
+![изображение](https://user-images.githubusercontent.com/51196431/222951858-54f923f6-e340-424a-a3b6-1a4f4bbf8746.png)
