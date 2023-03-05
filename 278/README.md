@@ -20,3 +20,5 @@ Example 2:
 
     Input: n = 1, bad = 1
     Output: 1
+
+![изображение](https://user-images.githubusercontent.com/51196431/222951102-26e38641-9b42-4dab-b084-36c9e4c25dbf.png)
