@@ -15,3 +15,7 @@ Example 2:
     Input: arr = [1,2,3,4], k = 2
     Output: 6
     Explanation: The missing positive integers are [5,6,7,...]. The 2nd missing positive integer is 6.
+
+
+![изображение](https://user-images.githubusercontent.com/51196431/223208252-5afc7598-40ae-4c63-aa49-473476fd96b1.png)
+
