@@ -5,6 +5,7 @@
 - 28 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - 66 [Plus One](https://leetcode.com/problems/plus-one/)
 - 69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+- 70 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - 88 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
