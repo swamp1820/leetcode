@@ -7,6 +7,7 @@
 - 69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - 70 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - 88 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- 98 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - 142 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
