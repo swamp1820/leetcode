@@ -12,6 +12,7 @@
 - 142 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - 205 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - 206 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- 235 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - 278 [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - 392 [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - 409 [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
