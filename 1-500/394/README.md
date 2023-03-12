@@ -22,3 +22,5 @@ Example 3:
 
   Input: s = "2[abc]3[cd]ef"
   Output: "abcabccdcdcdef"
+
+![изображение](https://user-images.githubusercontent.com/51196431/224576808-3b32d43c-70e7-4381-b3c4-567c01d14535.png)
