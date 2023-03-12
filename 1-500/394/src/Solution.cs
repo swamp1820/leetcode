@@ -3,13 +3,14 @@
 public class Solution
 {
     string result = string.Empty;
+    // костыльный метод O(n*m), где m - кол-во вложенных подстрок, n - увеличивается до суммы произведения подстрок на повторы плюс начальные символы без повторов
+    // после выполнения подсмотрел решения со стеком https://leetcode.com/problems/decode-string/solutions/941309/python-stack-solution-explained/
     public string DecodeString(string s)
     {
         int startSubstring = 0;
         int endSubstring = 0;
         int numIndex = 0;
         string numStr = "0";
-        // если числа нет - выходим
         int num = 0;
         for (int i = 0; i < s.Length; i++)
         {
@@ -47,11 +48,13 @@ public class Solution
                 break;
             }
         }
-
+// если числа не было - значит строка готова
         if (num == 0)
         {
             return s;
         }
+
+        // получаем строку из 3х значений - подстрока ДО числа, декодируемая подстрока, остальная часть строки
         return DecodeString(s.Substring(0, numIndex) + StrMultiply(num, s.Substring(startSubstring + 1, endSubstring - (startSubstring + 1))) + s.Substring(endSubstring + 1));
     }
 
