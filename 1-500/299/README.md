@@ -29,3 +29,5 @@ Example 2:
       |      or     |
     "0111"        "0111"
     Note that only one of the two unmatched 1s is counted as a cow since the non-bull digits can only be rearranged to allow one 1 to be a bull.
+
+![изображение](https://user-images.githubusercontent.com/51196431/224567272-cee295df-0fb2-4c0a-b6f9-10a8e230b9ed.png)
