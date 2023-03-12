@@ -26,6 +26,7 @@
 - 704 [Binary Search](https://leetcode.com/problems/binary-search/)
 - 724 [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - 733 [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- 844 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - 876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 912 [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - 1480 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
