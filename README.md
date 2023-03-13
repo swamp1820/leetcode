@@ -1,5 +1,6 @@
 # LeetCode
 
+
 - 1 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - 21 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -9,6 +10,7 @@
 - 70 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - 88 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - 98 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- 101 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - 142 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
