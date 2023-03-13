@@ -15,6 +15,7 @@
 - 200 [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - 205 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - 206 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- 217 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - 235 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - 278 [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - 299 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
