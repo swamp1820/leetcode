@@ -10,6 +10,7 @@
 - 69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - 70 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - 74 [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- 83 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - 88 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - 98 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - 101 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
