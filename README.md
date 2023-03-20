@@ -17,6 +17,7 @@
 - 102 [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - 118 [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- 141 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - 142 [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - 200 [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - 205 [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
