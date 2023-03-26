@@ -42,6 +42,7 @@
 - 392 [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 - 394 [Decode String](https://leetcode.com/problems/decode-string/)
 - 409 [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- 438 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - 443 [String Compression](https://leetcode.com/problems/string-compression/)
 - 509 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - 566 [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
