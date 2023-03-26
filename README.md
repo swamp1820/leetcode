@@ -45,6 +45,7 @@
 - 509 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - 566 [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 - 589 [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+- 700 [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - 704 [Binary Search](https://leetcode.com/problems/binary-search/)
 - 724 [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - 733 [Flood Fill](https://leetcode.com/problems/flood-fill/)
