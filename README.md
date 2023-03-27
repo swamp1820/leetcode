@@ -56,6 +56,7 @@
 - 844 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - 876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 912 [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+- 1046 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - 1480 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - 1539 [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - 2444 [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
