@@ -5,6 +5,7 @@
 - 14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - 21 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - 28 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- 35 [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - 36 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - 53 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - 66 [Plus One](https://leetcode.com/problems/plus-one/)
