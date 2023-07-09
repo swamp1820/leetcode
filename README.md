@@ -1,9 +1,10 @@
 # LeetCode
-
+C# and TS problems solutions
 
 - 1 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - 21 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- 27 [Remove Element](https://leetcode.com/problems/remove-element/)
 - 28 [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - 35 [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - 36 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
