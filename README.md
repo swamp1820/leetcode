@@ -1,5 +1,5 @@
 # LeetCode
-C# and TS problems solutions
+C#, TS and SQL problems solutions
 
 - 1 [Two Sum](https://leetcode.com/problems/two-sum/)
 - 14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
@@ -49,7 +49,9 @@ C# and TS problems solutions
 - 443 [String Compression](https://leetcode.com/problems/string-compression/)
 - 509 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - 566 [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- 584 [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
 - 589 [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+- 595 [Big Countries](https://leetcode.com/problems/big-countries/)
 - 653 [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 - 692 [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - 700 [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
@@ -61,6 +63,11 @@ C# and TS problems solutions
 - 876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 912 [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - 1046 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+- 1068 [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)
+- 1148 [Article Views I](https://leetcode.com/problems/article-views-i/)
+- 1378 [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
 - 1480 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - 1539 [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+- 1683 [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
+- 1757 [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - 2444 [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
