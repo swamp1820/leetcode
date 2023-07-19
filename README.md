@@ -68,6 +68,7 @@ C#, TS and SQL problems solutions
 - 1378 [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
 - 1480 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - 1539 [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+- 1581 [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
 - 1683 [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
 - 1757 [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - 2444 [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
