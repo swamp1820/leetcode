@@ -50,6 +50,7 @@ C#, TS and SQL problems solutions
 - 443 [String Compression](https://leetcode.com/problems/string-compression/)
 - 509 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - 566 [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- 570 [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
 - 577 [Employee Bonus](https://leetcode.com/problems/employee-bonus/)
 - 584 [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
 - 589 [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
