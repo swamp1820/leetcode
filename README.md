@@ -55,6 +55,7 @@ C#, TS and SQL problems solutions
 - 584 [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
 - 589 [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 - 595 [Big Countries](https://leetcode.com/problems/big-countries/)
+- 620 [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)
 - 653 [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 - 692 [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - 700 [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
