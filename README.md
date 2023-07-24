@@ -69,6 +69,7 @@ C#, TS and SQL problems solutions
 - 1046 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - 1068 [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)
 - 1148 [Article Views I](https://leetcode.com/problems/article-views-i/)
+- 1251 [Average Selling Price](https://leetcode.com/problems/average-selling-price/)
 - 1280 [Students and Examinations](https://leetcode.com/problems/students-and-examinations/)
 - 1378 [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
 - 1480 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
