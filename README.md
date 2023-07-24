@@ -76,4 +76,5 @@ C#, TS and SQL problems solutions
 - 1661 [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)
 - 1683 [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
 - 1757 [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+- 1934 [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)
 - 2444 [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
