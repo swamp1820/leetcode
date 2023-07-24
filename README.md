@@ -67,6 +67,7 @@ C#, TS and SQL problems solutions
 - 876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - 912 [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - 1046 [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+- 1075 [Project Employees I](https://leetcode.com/problems/project-employees-i/)
 - 1068 [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)
 - 1148 [Article Views I](https://leetcode.com/problems/article-views-i/)
 - 1251 [Average Selling Price](https://leetcode.com/problems/average-selling-price/)
