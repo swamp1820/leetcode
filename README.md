@@ -70,6 +70,8 @@ C#, TS and SQL problems solutions
 - 1075 [Project Employees I](https://leetcode.com/problems/project-employees-i/)
 - 1068 [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)
 - 1148 [Article Views I](https://leetcode.com/problems/article-views-i/)
+- 1193 [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)
+- 1211 [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/)
 - 1251 [Average Selling Price](https://leetcode.com/problems/average-selling-price/)
 - 1280 [Students and Examinations](https://leetcode.com/problems/students-and-examinations/)
 - 1378 [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
