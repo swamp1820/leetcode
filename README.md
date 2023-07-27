@@ -76,6 +76,7 @@ C#, TS and SQL problems solutions
 - 1480 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - 1539 [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - 1581 [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
+- 1633 [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)
 - 1661 [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)
 - 1683 [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
 - 1757 [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
