@@ -10,6 +10,7 @@ C#, TS and SQL problems solutions
 - 35 [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - 36 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - 53 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- 58 [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 - 66 [Plus One](https://leetcode.com/problems/plus-one/)
 - 67 [Add Binary](https://leetcode.com/problems/add-binary/)
 - 69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
